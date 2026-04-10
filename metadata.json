@@ -1,0 +1,5 @@
+{
+  "name": "InsightStream AI Research Assistant",
+  "description": "A powerful AI-driven research tool that searches the internet, summarizes topics, and generates comprehensive reports using Gemini's search grounding.",
+  "requestFramePermissions": []
+}
